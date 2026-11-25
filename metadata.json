@@ -1,0 +1,6 @@
+{
+  "name": "PAS Control & Simulation Room 3D",
+  "description": "Simulator 3D Public Address System (PAS) Control & Simulation Room interaktif untuk pembelajaran komponen audio, kontrol mixer, simulasi pengumuman bandara, dan pemantauan sensor DS18B20, ACS758, serta SEN0232.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
